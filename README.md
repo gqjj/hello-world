@@ -1,4 +1,5 @@
 # hello-world
 Just another repository
 
-Hi! My name is Yoshihisa.
+My name is Yoshihisa.
+I live in Tokyo.
